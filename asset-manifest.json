@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/static/js/main.3c342ded.chunk.js",
+    "main.js.map": "/static/js/main.3c342ded.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.18f20938.js",
+    "runtime-main.js.map": "/static/js/runtime-main.18f20938.js.map",
+    "static/js/2.e79ba673.chunk.js": "/static/js/2.e79ba673.chunk.js",
+    "static/js/2.e79ba673.chunk.js.map": "/static/js/2.e79ba673.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1039b696ee221c5fb0580498408d08ff.js": "/precache-manifest.1039b696ee221c5fb0580498408d08ff.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.e79ba673.chunk.js.LICENSE.txt": "/static/js/2.e79ba673.chunk.js.LICENSE.txt",
+    "static/media/Astromatch.png": "/static/media/Astromatch.9b37e9f7.png",
+    "static/media/Currículo.pdf": "/static/media/Currículo.3982a300.pdf",
+    "static/media/Spotenu.png": "/static/media/Spotenu.b51b5342.png",
+    "static/media/foto.jpg": "/static/media/foto.199b898e.jpg",
+    "static/media/github.svg": "/static/media/github.fec7da6d.svg",
+    "static/media/iFuture.png": "/static/media/iFuture.a3dc9768.png",
+    "static/media/instagram.svg": "/static/media/instagram.13ab1567.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.11a5ec5f.svg",
+    "static/media/notebook.png": "/static/media/notebook.c63fe684.png",
+    "static/media/twitter.svg": "/static/media/twitter.a214b650.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.51938695.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18f20938.js",
+    "static/js/2.e79ba673.chunk.js",
+    "static/js/main.3c342ded.chunk.js"
+  ]
+}
