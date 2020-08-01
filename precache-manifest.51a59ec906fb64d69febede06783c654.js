@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c7bfeeb5140263334b832c3c84c1a5f",
+    "revision": "e2ee142e95d165695e28e67635960530",
     "url": "/index.html"
   },
   {
-    "revision": "103c75f69aba73d4da9b",
-    "url": "/static/js/2.e79ba673.chunk.js"
+    "revision": "038c74821f3ea99e9291",
+    "url": "/static/js/2.497ea5cb.chunk.js"
   },
   {
     "revision": "4ba1a1c11c57ed15aa68008707a3d6b4",
-    "url": "/static/js/2.e79ba673.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.497ea5cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3e11508d738d30d4ac1a",
-    "url": "/static/js/main.3c342ded.chunk.js"
+    "revision": "1e0f9c5395b745cbc6c2",
+    "url": "/static/js/main.58fe0f11.chunk.js"
   },
   {
     "revision": "ea6835d4b1bdf6a984a4",
@@ -24,12 +24,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Astromatch.9b37e9f7.png"
   },
   {
-    "revision": "3982a3001affea74f15da06add010d68",
-    "url": "/static/media/Currículo.3982a300.pdf"
+    "revision": "6de40885675def5284b093780fb13a39",
+    "url": "/static/media/Currículo.6de40885.pdf"
   },
   {
-    "revision": "b51b534215c70ea3393f6e27a9e8c47b",
-    "url": "/static/media/Spotenu.b51b5342.png"
+    "revision": "20b2b71b3a2f6434dd0d6dec6319886d",
+    "url": "/static/media/Spotenu.20b2b71b.png"
   },
   {
     "revision": "199b898e1693adc8e9c319dfe18b589c",
